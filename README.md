@@ -1,3 +1,1 @@
-# Connect Four
-
-*Replace this file with your own README.  At minimum, you should cover installation and basic usage instructions.*
+Second Dev Bootcamp group project. A Ruby app for playing AI connect four through Twitter.
