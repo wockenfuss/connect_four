@@ -4,7 +4,7 @@ The second Dev Bootcamp group project made during week 5: a Ruby app for playing
 
 ## Features
 
-* The game accomodates human-v-human, human-v-computer and computer-v-twitter modes.
+* The game accommodates human-v-human, human-v-computer and computer-v-twitter modes.
 
 ## Credits
 
